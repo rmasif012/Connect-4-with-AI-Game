@@ -54,9 +54,6 @@ Welcome to the Connect 4 Game with AI! This repository contains the code for a C
 
 The game loop handles user inputs, updates the board, and alternates turns between the player and the AI. It also checks for win conditions and updates the display accordingly.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
