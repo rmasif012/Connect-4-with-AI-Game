@@ -12,7 +12,7 @@ Welcome to the Connect 4 Game with AI! This repository contains the code for a C
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/connect4-ai.git
+   git clone https://github.com/rmasif012/connect4-ai.git
    cd connect4-ai
    ```
 
